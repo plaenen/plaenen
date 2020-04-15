@@ -10,6 +10,7 @@
 
 links: 
 
+* [Apache Pulsar Concepts and Terminology](https://www.youtube.com/watch?v=ed5zxfvlT-M)
 * [Introduction to The Apache Pulsar Messaging System](https://www.youtube.com/watch?v=clRO56VR_u8&list=UUW7EEMO5LACmabd4lKulQbQ&index=22)
 * [Pulsar Devox](https://www.youtube.com/watch?v=De6avNyQUMw)
 * [Pulsar monopoly](https://www.youtube.com/watch?v=0Oatl_d6CfA&list=UUW7EEMO5LACmabd4lKulQbQ&index=25)
@@ -22,3 +23,9 @@ links:
 ### Blob storage
 
 * OpenIO.io -> Distributed storage? or should we use Apache bookkeper?
+
+# Data Formats 
+
+## Parquet
+
+https://parquet.apache.org/
