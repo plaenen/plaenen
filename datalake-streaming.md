@@ -1,5 +1,8 @@
 
-# Data Streaming 
+# Data analytics and reporting 
+
+* [modern realtime streaming architectures](https://www.slideshare.net/arunkejariwal/modern-realtime-streaming-architectures)
+
 
 ## Kappa Architecture
 
