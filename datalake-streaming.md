@@ -10,6 +10,7 @@
 
 links: 
 
+* [Pulsar Devox](https://www.youtube.com/watch?v=De6avNyQUMw)
 * [Pulsar monopoly](https://www.youtube.com/watch?v=0Oatl_d6CfA&list=UUW7EEMO5LACmabd4lKulQbQ&index=25)
 * [Apache pulsar SQL (Presto)](https://www.splunk.com/en_us/blog/it/querying-data-streams-with-apache-pulsar-sql.html)
 * [Pulsar SQL - medium](https://www.splunk.com/en_us/blog/it/querying-data-streams-with-apache-pulsar-sql.html)
